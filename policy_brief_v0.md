@@ -1,16 +1,17 @@
 # Policy Brief v0 — The Right to Digital Autonomy
 
 ## Problem
-Governments and corporations have weaponized surveillance under the guise of “security.”  
-Users have no true ownership of their data, no transparency on how it’s used, and no universal right to privacy.
+
+Governments and companies track, collect, and exploit our data. Users have no real control or transparency.
 
 ## Goal
-To propose a foundational model of digital autonomy:  
-- Every citizen has the right to know, control, and erase their personal data.  
-- Governments must adhere to “mutual transparency,” where surveillance requires proportional justification and public accountability.  
-- Cyber policies should empower individuals, not institutions.
 
-## Proposed Framework (draft)
-1. *Data Ownership Clause* — All data created by an individual is owned by that individual by default.  
-2. *Consent Ledger* — Every data transaction (storage, sharing, analysis) must be logged in a verifiable ledger visible to the data owner.  
-3. *Digital Sovereignty Index (DSI)* — A rating system to measure governments’ and corporations’ respect for digital rights.
+- People should *own and control their own data*.  
+- Surveillance should require *justification and public accountability*.  
+- Policies should *empower individuals*, not institutions.
+
+## Draft Framework
+
+1. *Data Ownership Clause* — Anything you create belongs to you.  
+2. *Consent Ledger* — Every data use is logged for you to see.  
+3. *Digital Sovereignty Index (DSI)* — Ranks governments and companies on how well they respect digital rights.
