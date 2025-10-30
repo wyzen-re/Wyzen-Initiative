@@ -6,3 +6,4 @@ The Wyzen Initiative is a vision to redefine privacy, security, and digital ethi
 We aim to build the foundation for a future where individuals control their data, and technology serves humanity—not the other way around.
 
 Founded by Sheron “Wyzen” Gurusinghe, 2025.
+
