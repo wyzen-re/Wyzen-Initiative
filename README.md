@@ -2,7 +2,7 @@
 
 *“The network bows to none.”*  
 
-A hybrid network where users *own their data, **control their identity, and **communicate freely* — without surveillance, manipulation, or centralized control.  
+A hybrid network where users *own their data*, **control their identity, and** **communicate freely** — without surveillance, manipulation, or centralized control.  
 
 ---
 
