@@ -1,10 +1,16 @@
-# Wyzen Initiative
+# Wyzen Initiative 🚀
 
-*The network bows to none.*  
+*“The network bows to none.”*  
 
-The Wyzen Initiative is building *PrivNet*: a hybrid network where users own their data, control their identity, and communicate freely — without surveillance, manipulation, or centralized control.  
+A hybrid network where users *own their data, **control their identity, and **communicate freely* — without surveillance, manipulation, or centralized control.  
 
-PrivNet combines the speed and reliability of selective relay servers with the privacy and sovereignty of peer-to-peer connections. Every message, every file, every interaction is encrypted and controlled by its creator.  
+---
+
+## Quick Links
+- 📄 *Concept Sketch:* [privnet_mvp.md](privnet_mvp.md)  
+- 📜 *Policy Notes:* [policy_notes.md](policy_notes.md)  
+- 🏗 *Prototype Ideas:* [policy_brief_v0.md](policy_brief_v0.md)  
+- 📊 *Architecture Diagram:* (coming soon)
 
 ---
 
@@ -38,6 +44,7 @@ We live in a world where data is exploited, privacy is eroded, and digital freed
 
 ---
 
-*“The network bows to none.” — Wyzen Initiative."*
-Founded by Sheron “Wyzen” Gurusinghe, 2025.
+>*“We do not wait for permission. We build the world we deserve.”*  
+>*“The network bows to none.” — Wyzen Initiative.*
+>Founded by Sheron “Wyzen” Gurusinghe, 2025.
 
