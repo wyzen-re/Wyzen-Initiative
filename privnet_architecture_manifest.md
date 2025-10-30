@@ -60,5 +60,5 @@ Every component serves a single purpose: give users control over their identity 
 
 ---
 
-“Freedom in code, sovereignty in connection.”  
+“The Network bows to none.”  
 *— Wyzen Initiative, 2025*
