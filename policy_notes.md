@@ -1,8 +1,17 @@
 # Policy Notes
 
-*Note 1 — GDPR’s Strengths and Weaknesses*
-The GDPR introduced global awareness on digital rights, but enforcement is slow, and corporations exploit loopholes through vague consent models.  
-Goal: Simplify user rights while ensuring enforcement is automated and real-time, not bureaucratic.
+A running log of ideas, inspirations, and things to test for PrivNet.
 
-*Note 2 — Data Colonialism*
-The modern economy thrives on extracting user data without compensation. The Wyzen Initiative believes in “Data Dividend” — individuals should be paid for their digital footprint if monetized.
+## Notes
+
+- GDPR is good but slow and confusing; we need *real-time enforcement*.  
+- Data is being exploited — consider a *“Data Dividend”* where users are compensated if their data is monetized.  
+- P2P networks with optional relays could make privacy *fast and reliable*.  
+- Encrypted vaults let users keep control even if servers fail.
+
+## Ideas to Explore
+
+- Make it easy for *low-end devices* to participate.  
+- Automatic key exchange to simplify connections.  
+- Incentives for relay servers without compromising privacy.  
+- Visual guides for new users to understand how their data is protected.
